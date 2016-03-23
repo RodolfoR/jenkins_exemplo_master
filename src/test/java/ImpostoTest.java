@@ -10,8 +10,8 @@ import static org.junit.Assert.*;
  */
 import org.junit.Test;
 
-import br.com.caelum.blog.jenkins.Imposto;
-import br.com.caelum.blog.jenkins.Orcamento;
+import src.jenkins.Imposto;
+import src.jenkins.Orcamento;
 
 public class ImpostoTest {
 

@@ -1,4 +1,4 @@
-package br.com.caelum.blog.jenkins;
+package src.jenkins;
 public class Orcamento {
 
 	private double valor;
